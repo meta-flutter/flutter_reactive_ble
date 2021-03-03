@@ -8,6 +8,7 @@ environment:
   flutter: ">=1.10.0"
 
 dependencies:
+  bluez: ^0.6.0
   collection: ^1.15.0
   flutter:
     sdk: flutter
